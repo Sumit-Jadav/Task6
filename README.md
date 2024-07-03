@@ -1,1 +1,1 @@
-# Task6
+ smart contract in Solidity for managing student grades.
